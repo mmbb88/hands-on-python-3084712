@@ -1,5 +1,5 @@
 greet = "Hello World"
-extened_grt = "Hello World, " + "this is a long string"
+extened_grt = "Hello Wooorld, " + "this is a long string"
 
 name = "John"
 
